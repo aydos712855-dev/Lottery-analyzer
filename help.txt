@@ -1,0 +1,8 @@
+I'll build a polished in-app Help page that matches the LottoLens design, then add it to the HTML file.Viewed 3 filesViewed 3 filesNow I have everything I need. I'll add the Help nav item, Help page, and update the pageTitles object.Edited 3 files, read a fileEdited 3 files, read a fileThe Help page is now built into the app — click Help in the sidebar to see it. Here's what it covers:
+
+Quick start — a numbered 3-step guide (configure → add history → analyze & generate) so new users can get running immediately.
+Pages explained — what each of the 5 sections does and what to look for there.
+Generation strategies — a plain-language explanation of all 5 strategies (hot, cold, balanced, overdue, random) including the reasoning behind each and its limitations.
+Key concepts — definitions of hot, cold, overdue, pair frequency, and set sum (Σ), with the thresholds spelled out.
+Importing draw data — the exact CSV format with an example, plus a tip about using JSON export/import to persist data between sessions.
+Randomness disclaimer — an honest note that patterns are descriptive, not predictive, so users understand what the tool can and cannot do.
